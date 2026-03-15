@@ -1,0 +1,559 @@
+:: StoryTitle
+Wikistory Travellers
+
+
+:: StoryData
+{
+  "ifid": "75994C1F-6B54-4CDA-8408-FE9B31509EA1",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "startup",
+  "tag-colors": {
+    "Begin": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: Begin Again {"position":"700,100","size":"100,100"}
+Hi $name! As a librarian and a rock climber and Wikipedia editor in your free time, you've gotten used to being around books all the time. But you never imagined that you would end up in the middle of one of those very fictional worlds. 
+
+It all started a few hours ago. You were putting books away when suddenly...
+
+[[one fell on you.]]
+[[you picked up an interesting one to read.]]
+[[you see a light emitting from one of the books on the shelf and pick it up.]]
+
+<a title="Ralf Roletschek, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:13-11-02-olb-by-RalfR-03.jpg"><img width="960" alt="Science library of Upper Lusatia in Görlitz, Germany." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/13-11-02-olb-by-RalfR-03.jpg/960px-13-11-02-olb-by-RalfR-03.jpg"></a>
+
+
+:: Beginning {"position":"500,100","size":"100,100"}
+{(if: $name is " ")[(set: $name to 
+  (prompt: "What is your name?", "First Last"))]
+  (else:)[(goto: "Begin Again")]
+}
+
+Hi $name! As a librarian and a rock climber and Wikipedia editor in your free time, you've gotten used to being around books all the time. But you never imagined that you would end up in the middle of one of those very fictional worlds. 
+
+It all started a few hours ago. You were putting books away when suddenly...
+
+[[one fell on you.]]
+[[you picked up an interesting one to read.]]
+[[you see a light emitting from one of the books on the shelf and pick it up.]]
+
+<a title="Ralf Roletschek, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:13-11-02-olb-by-RalfR-03.jpg"><img width="960" alt="Science library of Upper Lusatia in Görlitz, Germany." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/13-11-02-olb-by-RalfR-03.jpg/960px-13-11-02-olb-by-RalfR-03.jpg"></a>
+
+
+:: Cinderella {"position":"850,650","size":"100,100"}
+You feel a jolt in your body as you feel yourself teleported from the forest. When you come to, you're in the bushes next to the most elaborate staircase that you've ever seen, as people wearing fancy clothes climb up the stairs. 
+
+You sigh. You're in the middle of <a href="https://en.wikipedia.org/wiki/Cinderella">//Cinderella//</a>.
+
+<a title="Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover_2013.jpg"><img width="960" alt="Neues Rathaus Hannover 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Neues_Rathaus_Hannover_2013.jpg/960px-Neues_Rathaus_Hannover_2013.jpg"></a>
+
+
+:: Climb the castle with your rock climbing skills. {"position":"750,1675","size":"100,100"}
+You roll up your sleeves. It's time to put your rock climbing skills to the test. 
+
+This castle isn't any harder than anything that you've climbed before, and it doesn't take long before you discover the room with a bunch of mattresses. 
+
+You let yourself in through the open window and immediately see the bed with the pile of mattresses, where you see a light shine through. How are you supposed to get the pea from underneath?
+
+Just then, the prince barges through the door.
+
+"What are you doing here?" he asks. 
+
+So much for inconspiculously climbing up. 
+
+He looks over at the mattresses and suddenly grows excited. "Did you feel the pea underneath?"
+
+[[Yes.]]
+[[No.]]
+
+<a title="Eliedion, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Efteling_AntonPieckplein_-_Efteling_museum_-_de_prinses_op_de_erwt.JPG"><img width="960" alt="Efteling AntonPieckplein - Efteling museum - de prinses op de erwt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Efteling_AntonPieckplein_-_Efteling_museum_-_de_prinses_op_de_erwt.JPG/960px-Efteling_AntonPieckplein_-_Efteling_museum_-_de_prinses_op_de_erwt.JPG"></a>
+
+
+:: End {"position":"675,1950","size":"100,100"}
+When you next wake up, you're laying on the floor of the fairy tale section, with the four books you had stepped into splayed on the ground around you. 
+
+You pick up <a href="https://en.wikipedia.org/wiki/The_Princess_and_the_Pea">//The Princess and the Pea//</a>, and are surprised to see that your adventure made no impact on the story. You check the other three books for changes as well, and don't see any. 
+
+Maybe you could've had more fun, if you dared to.
+
+Sam, another librarian, comes over.
+
+"What are you doing over there?" they ask. They look to the other side of you. "Oh, are these the items we'll be showcasing for Fairy Tales week next week?"
+
+Turning around, you see a pile of the items that you had to touch to get back. 
+
+1. First is the poisoined apple, which just looks like a regular apple here (maybe nobody should eat it though). 
+2. Next is Cinderella's gold shoes.
+3. Then there's the silver shoes.
+4. Finally, it's the one singular pea from <a href="https://en.wikipedia.org/wiki/The_Princess_and_the_Pea">//The Princess and the Pea//</a>.
+
+"Although I don't know if the apple and the pea would be engaging... maybe you could go and get some more interesting items like the shoes?"
+
+"Nope." You stand up. "It's your turn. I'm pretty tired just finding all of this stuff."
+
+"Weren't you just napping..." Sam trails off, but then shakes their head. "Just come over to the circulation desk, we have a fifth-grade class coming soon."
+
+You grab the four books, and while you put <a href="https://en.wikipedia.org/wiki/Snow-White">//Snow White//</a>, <a href="https://en.wikipedia.org/wiki/Cinderella">//Cinderella//</a>, and <a href="https://en.wikipedia.org/wiki/The_Princess_and_the_Pea">//The Princess and the Pea//</a> in the fairy tale section, you take <a href="https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz">//The Wonderful Wizard of Oz//</a> with you, putting it in the 20th century children's fiction section as you head back to the circulation desk.
+
+Sitting down, you look around at the library. You viewed your mundane life as boring before, but maybe you're wrong.
+
+Maybe there's a little bit of magic left in it after all. 
+
+[[Turn the page ->The End]]
+
+<a title="Ralf Roletschek, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:13-11-02-olb-by-RalfR-03.jpg"><img width="960" alt="Science library of Upper Lusatia in Görlitz, Germany." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/13-11-02-olb-by-RalfR-03.jpg/960px-13-11-02-olb-by-RalfR-03.jpg"></a>
+
+
+:: Follow the Light {"position":"575,500","size":"100,100"}
+Outside of the dwarves' house, you see the old farmer's wife standing there with her basket. Of course, you know that's actually the evil queen in disguise. Her basket is glowing, which is where you presume she's kept the poisoned apple. 
+
+She reaches in and grabs the apple, readying herself to knock on the door. Does she not see it's glowing?
+
+What should you do?
+
+[[Touch the apple.]]
+[[Stay still.]]
+[[Say hi to the evil queen.]]
+
+<a title="MCAD Library, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Snow_White_and_the_Seven_Dwarfs_-_53078643357_-_Jack_Zipes_Historic_Fairy_Tale_Postcard_Collection_-_Kubel,_Otto_(German,_1868-1951).jpg"><img width="500" alt="Snow White and the Seven Dwarfs - 53078643357 - Jack Zipes Historic Fairy Tale Postcard Collection - Kubel, Otto (German, 1868-1951)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Snow_White_and_the_Seven_Dwarfs_-_53078643357_-_Jack_Zipes_Historic_Fairy_Tale_Postcard_Collection_-_Kubel%2C_Otto_%28German%2C_1868-1951%29.jpg/500px-Snow_White_and_the_Seven_Dwarfs_-_53078643357_-_Jack_Zipes_Historic_Fairy_Tale_Postcard_Collection_-_Kubel%2C_Otto_%28German%2C_1868-1951%29.jpg"></a>
+
+
+:: Interact with Dorothy {"position":"425,1550","size":"100,100"}
+With your time spent in all of these stories, you've grown a little bolder about interacting with these story characters. You walk up to the house, where Dorothy looks shocked.
+
+"What are you doing here?"
+
+"I'm trying to get home too," you say. "Sorry Dorothy; I wish I could help you."
+
+This is something that definetly needs to be done, and there's absolutely no getting around it. 
+
+You reach down and touch the witch's shoes. You quickly find yourself enveloped, once again, within the blinding yellow light.
+
+<a title="N509FZ, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Silver_high-heeled_shoes_on_legs_(20230417104455).jpg"><img width="960" alt="Silver high-heeled shoes on legs (20230417104455)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Silver_high-heeled_shoes_on_legs_%2820230417104455%29.jpg/960px-Silver_high-heeled_shoes_on_legs_%2820230417104455%29.jpg"></a>
+
+(link: "What happens?")[
+When you wake up, you find yourself by the side of a castle on a rainy night. You don't immediately know which story this is in reference to, as there are a lot of fairy tales (or even other books) that have a castle. 
+
+Then you remember the book that was on the shelf right next to the others: <a href="https://en.wikipedia.org/wiki/The_Princess_and_the_Pea">//The Princess and the Pea
+//</a> 
+
+You look up at the castle. The most iconic object from this story is the pea though, located under all of those mattresses. There's no way you could be able to go in and touch it inconspiciously. 
+
+Additionally, with the time you spend in each story slowly decreasing, there's no way that you'll be able to get in before the actual princess of the story arrives.
+
+[[Climb the castle with your rock climbing skills.]]
+[[Knock on the front door.]]
+
+<a title="Franz Scheyerer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"><img width="960" alt="Franz Scheyerer - Das alte Schloß Rain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg/960px-Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"></a>
+]
+
+
+:: Knock on the front door. {"position":"450,1675","size":"100,100"}
+Despite being nervous, you go to the front door and knock. What would be the alternative?
+
+The prince of the story opens the door and looks down at you. 
+
+"Can I help you?" he asks.
+
+"Can I have a place to stay? It's really rainy."
+
+The prince looks skeptical at first, but eventually widens the door and lets you in. 
+
+You're led up a long spiral staircase, to a big room at the end of the hall.
+
+"You can stay there. Let me know if you need anything." The prince leaves.
+
+Peering into the room, you see that it's the right room with the large pile of mattresses.
+
+But you're not sure how much time you have left. Can you really stay until tomorrow morning? 
+
+You climb up the ladder at the side of the bed. Maybe if you pretend to sleep and then call the prince, you can leave tonight. You can't even feel the pea under all of these mattresses, so you'll probably have to lie. 
+
+After five minutes, you call the prince back.
+
+"This bed is uncomfortable; I can't sleep." You can't begin to grapple with the rudeness of saying that to a host who has offered you a place to stay, but this is the only way.
+
+The prince looks over at the bed. "Did you feel the pea underneath?"
+
+He looks over at the mattresses and suddenly grows excited. "Did you feel the pea underneath?"
+
+[[Yes.]]
+[[No]]
+
+<a title="Eliedion, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Efteling_AntonPieckplein_-_Efteling_museum_-_de_prinses_op_de_erwt.JPG"><img width="960" alt="Efteling AntonPieckplein - Efteling museum - de prinses op de erwt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Efteling_AntonPieckplein_-_Efteling_museum_-_de_prinses_op_de_erwt.JPG/960px-Efteling_AntonPieckplein_-_Efteling_museum_-_de_prinses_op_de_erwt.JPG"></a>
+
+
+:: No {"position":"500,1850","size":"100,100"}
+"No, I didn't feel it," you admit.
+
+"Okay, then why did you call me?" he asked.
+
+"I heard a myth that you had a pea underneath all of these mattresses to test for princesses. I wanted to ask if that was true. You just told me, so I guess that defeats the purpose of the test."
+
+"Okay, know-it-all." You find it odd that most of the characters that you've interacted with use modern day slang, but you brush it off.
+
+The doorbell rings, and the prince turns away. "I'm going to have to ask you to leave now. Hopefully whoever is at the door is a //real// princess."  
+
+As you descend down the steps and are led out the back door, you sigh, looking up at the sky, where the rain still hasn't let up. Do you have no way of getting home now?
+
+Maybe you should've chosen otherwise?
+
+[[Knock on the front door.]]
+
+<a title="Franz Scheyerer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"><img width="960" alt="Franz Scheyerer - Das alte Schloß Rain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg/960px-Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"></a>
+
+
+:: No. {"position":"800,1800","size":"100,100"}
+"No, I didn't feel it," you admit.
+
+"Okay, so you just broke into this castle then? I don't remember inviting you in."
+
+The prince is okay with break-ins, but only if you're a princess, you suppose. The wrong conclusion to draw from this interaction, but it seems to be true. 
+
+"I heard a myth that you had a pea underneath all of these mattresses to test for princesses. I wanted to ask if that was true. You just told me, so I guess that defeats the purpose of the test."
+
+"Okay, know-it-all." You find it odd that most of the characters that you've interacted with use modern day slang, but you brush it off. 
+
+The doorbell rings, and the prince turns away. "I'm going to have to ask you to leave now. Hopefully whoever is at the door is a //real// princess."
+
+As you descend down the steps and are led out the back door, you sigh. Do you have no way of getting home now?
+
+Maybe you should've chosen otherwise?
+
+[[Climb the castle with your rock climbing skills.]]
+
+<a title="Franz Scheyerer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"><img width="960" alt="Franz Scheyerer - Das alte Schloß Rain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg/960px-Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"></a>
+
+
+:: Run up and quickly touch the shoes {"position":"575,1550","size":"100,100"}
+You sigh. This is something that definetly needs to be done, and there's absolutely no getting around it. 
+
+As fast as you can, you run up to the witch and touch the shoes. You quickly find yourself enveloped, once again, within the blinding yellow light.
+
+<a title="N509FZ, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Silver_high-heeled_shoes_on_legs_(20230417104455).jpg"><img width="960" alt="Silver high-heeled shoes on legs (20230417104455)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Silver_high-heeled_shoes_on_legs_%2820230417104455%29.jpg/960px-Silver_high-heeled_shoes_on_legs_%2820230417104455%29.jpg"></a>
+
+(link: "What happens?")[
+When you wake up, you find yourself by the side of a castle on a rainy night. You don't immediately know which story this is in reference to, as there are a lot of fairy tales (or even other books) that have a castle. 
+
+Then you remember the book that was on the shelf right next to the others: <a href="https://en.wikipedia.org/wiki/The_Princess_and_the_Pea">//The Princess and the Pea
+//</a> 
+
+You look up at the castle. The most iconic object from this story is the pea though, located under all of those mattresses. There's no way you could be able to go in and touch it inconspiciously. 
+
+Additionally, with the time you spend in each story slowly decreasing, there's no way that you'll be able to get in before the actual princess of the story arrives.
+
+[[Climb the castle with your rock climbing skills.]]
+[[Knock on the front door.]]
+
+<a title="Franz Scheyerer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"><img width="960" alt="Franz Scheyerer - Das alte Schloß Rain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg/960px-Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"></a>
+]
+
+
+
+:: Say hi to the evil queen. {"position":"450,625","size":"100,100"}
+You feel weird about interacting with a story character, especially one as evil as the queen. She turns to look at you, dropping the apple, which rolls over to your feet.  
+
+<a title="Image provided by Landsbókasafn Íslands, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Snow_White_Poisoned_Apple.png"><img width="500" alt="Snow White Poisoned Apple" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Snow_White_Poisoned_Apple.png/500px-Snow_White_Poisoned_Apple.png"></a>
+
+(link: "What happens?")[
+You feel a jolt in your body as you feel yourself teleported from the forest. When you come to, you're in the bushes next to the most elaborate staircase that you've ever seen, as people wearing fancy clothes climb up the stairs. 
+
+You sigh. You're in the middle of <a href="https://en.wikipedia.org/wiki/Cinderella">//Cinderella//</a>.
+
+<a title="Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover_2013.jpg"><img width="960" alt="Neues Rathaus Hannover 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Neues_Rathaus_Hannover_2013.jpg/960px-Neues_Rathaus_Hannover_2013.jpg"></a>
+
+[[Turn the page ->The Grand Ball]]
+]
+
+
+:: Snow White {"position":"575,375","size":"100,100"}
+Regardless of how you ended up here, it seems as if there's now no way out. 
+
+And you can't just go knock on the dwarves' house, no! What consequences would that end up having for the story? As a librarian, that's not something that you'll end up considering. 
+
+But just when you thought you might have given up all hope, you see a light near the dwarves' house, and ignoring your misgivings, you inch towards it...
+
+[[Turn the page ->Follow the Light]]
+
+<a title="Kathleen Conklin from Falls Church, USA, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Charlevoix_-_Mushroom_House_(1332872112).jpg"><img width="960" alt="Charlevoix - Mushroom House (1332872112)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Charlevoix_-_Mushroom_House_%281332872112%29.jpg/960px-Charlevoix_-_Mushroom_House_%281332872112%29.jpg"></a>
+
+
+:: Stay in the bushes {"position":"700,1550","size":"100,100"}
+A munchkin trips over you, pushing you forward into the crowd that's gathering around the house, clearly excited to see what commotion is happening.
+
+With this crowd, you think that if you wait any longer, you might not end up being able to get home. 
+
+This is something that definetly needs to be done, and there's absolutely no getting around it. 
+
+As fast as you can, you run up to the witch and touch the shoes. You quickly find yourself enveloped, once again, within the blinding yellow light.
+
+<a title="N509FZ, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Silver_high-heeled_shoes_on_legs_(20230417104455).jpg"><img width="960" alt="Silver high-heeled shoes on legs (20230417104455)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Silver_high-heeled_shoes_on_legs_%2820230417104455%29.jpg/960px-Silver_high-heeled_shoes_on_legs_%2820230417104455%29.jpg"></a>
+
+(link: "What happens?")[
+When you wake up, you find yourself by the side of a castle on a rainy night. You don't immediately know which story this is in reference to, as there are a lot of fairy tales (or even other books) that have a castle. 
+
+Then you remember the book that was on the shelf right next to the others: <a href="https://en.wikipedia.org/wiki/The_Princess_and_the_Pea">//The Princess and the Pea
+//</a> 
+
+You look up at the castle. The most iconic object from this story is the pea though, located under all of those mattresses. There's no way you could be able to go in and touch it inconspiciously. 
+
+Additionally, with the time you spend in each story slowly decreasing, there's no way that you'll be able to get in before the actual princess of the story arrives.
+
+[[Climb the castle with your rock climbing skills.]]
+[[Knock on the front door.]]
+
+<a title="Franz Scheyerer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"><img width="960" alt="Franz Scheyerer - Das alte Schloß Rain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg/960px-Franz_Scheyerer_-_Das_alte_Schlo%C3%9F_Rain.jpg"></a>
+]
+
+
+
+:: Stay still. {"position":"700,625","size":"100,100"}
+Despite your best efforts to stay perfectly still, a branch is snapped in your direction, and the queen turns to look at you. Surprised, she drops the apple, which rolls over to your feet. 
+
+<a title="Image provided by Landsbókasafn Íslands, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Snow_White_Poisoned_Apple.png"><img width="500" alt="Snow White Poisoned Apple" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Snow_White_Poisoned_Apple.png/500px-Snow_White_Poisoned_Apple.png"></a>
+
+(link: "What happens?")[
+You feel a jolt in your body as you feel yourself teleported from the forest. When you come to, you're in the bushes next to the most elaborate staircase that you've ever seen, as people wearing fancy clothes climb up the stairs. 
+
+You sigh. You're in the middle of <a href="https://en.wikipedia.org/wiki/Cinderella">//Cinderella//</a>.
+
+<a title="Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover_2013.jpg"><img width="960" alt="Neues Rathaus Hannover 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Neues_Rathaus_Hannover_2013.jpg/960px-Neues_Rathaus_Hannover_2013.jpg"></a>
+
+[[Turn the page ->The Grand Ball]]
+]
+
+
+:: The End {"position":"675,2125","size":"100,100"}
+''The End''
+
+<a title="E. C. Mountfort (illustration), Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Peace_Prophecies_Concerning_the_End_of_the_War_-_2113468d.webp"><img width="960" alt="Peace Prophecies Concerning the End of the War." src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Peace_Prophecies_Concerning_the_End_of_the_War_-_2113468d.webp/960px-Peace_Prophecies_Concerning_the_End_of_the_War_-_2113468d.webp.png"></a>
+
+
+:: The Grand Ball {"position":"575,800","size":"100,100"}
+It only makes sense that you're in the middle of <a href="https://en.wikipedia.org/wiki/Cinderella">//Cinderella//</a>. After all, that was the book right next to Snow White (Yes, you know you need to reorganize the fairy tale section). 
+
+Just then, a girl in the most beautiful silver gown and gold shoes walks up the stairs, a serious look on her face. 
+
+That must be Cinderella. It makes sense, as in most versions of the story besides the Disney movie, her dress isn't blue. 
+
+Your theory that touching the most iconic item from each book was what held the key to you returning home seems to not be plausible, as you notice that Cinderella's gold shoes, inarguably the most iconic items from this story.
+
+But then you realized that for Snow White, you had to wait in the forest for hours until the evil queen showed up. Cinderella's shoes will probably only start glowing when she leaves the ball. After all, that's the most iconic moment from her tale. 
+
+You look down, at your sloppy clothes, not even close to the dress code of the ball, and curse yourself for not thinking ahead. There's definitely no chance that you're going to that ball, where you'd stand out like a sore thumb.
+
+So for now, the bushes are your home...
+
+[[Turn the page ->When The Clock Strikes Midnight]]
+
+<a title="Pierre-Auguste Renoir, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"><img width="960" alt="Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg/960px-Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"></a>
+
+
+:: The Pea {"position":"175,1650","size":"100,100"}
+This castle isn't any harder than anything that you've climbed before, and it doesn't take long before you discover the room with a bunch of mattresses. 
+
+You let yourself in through the open window and immediately see the pile of mattresses, where you see a light shine through. How are you supposed to get the pea from underneath?
+
+Just then, the prince barges through the door.
+
+"What are you doing here?" he asks. 
+
+So much for inconspiculously climbing up. 
+
+He looks over at the pile of mattresses and suddenly grows excited. "Did you feel the pea underneath?"
+
+
+:: The Wicked Witch {"position":"575,1400","size":"100,100"}
+It doesn't take long for the Wicked Witch to show up.
+
+Once that happens, you could've blinked and missed the house falling on her. Once it does, the bright light continues to emit from them. 
+
+You grimace when you realize what needs to be done. You have to touch the shoes, while the witch is still wearing them. 
+
+You wonder if the Good Witch can send you back to your time, but you shake your head, quickly ridding yourself of the thought. 
+
+You should just act now. If you miss this opportunity, who knows if you'll ever be able to return home.
+
+Dorothy is also slowly opening the door now. What do you do?
+
+[[Run up and quickly touch the shoes]]
+[[Stay in the bushes]]
+[[Interact with Dorothy]]
+
+<a title="W. W. Denslow, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"><img width="500" alt="The Wonderful Wizard of Oz Book Cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Wonderful_Wizard_of_Oz_Book_Cover.jpg/500px-The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"></a>
+
+
+:: The Wizard of Oz {"position":"575,1275","size":"100,100"}
+But <a href="https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz">//The Wonderful Wizard of Oz//</a> isn't a fairy tale. How did you end up "hopping" into it?
+
+Then again, you do work in a library. It is a //little// bit expected that things would disorganized sometimes.
+
+Even if <a href="https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz">//The Wonderful Wizard of Oz//</a> is from an entirely different and century than most fairy tales... You shake your head, as it's not important to focus on that right now. 
+
+You look around at Munchkin County, which simply looks busy and filled with Munchkins going about their day. No sign of the Wicked Witch, or a flying house, yet. 
+
+So for now, you just wait...
+
+[[Turn the page ->The Wicked Witch]]
+
+<a title="W. W. Denslow, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"><img width="500" alt="The Wonderful Wizard of Oz Book Cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Wonderful_Wizard_of_Oz_Book_Cover.jpg/500px-The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"></a>
+
+
+:: Touch the apple. {"position":"575,625","size":"100,100"}
+Despite your misgivings, you reach out and touch it. 
+
+<a title="Image provided by Landsbókasafn Íslands, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Snow_White_Poisoned_Apple.png"><img width="500" alt="Snow White Poisoned Apple" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Snow_White_Poisoned_Apple.png/500px-Snow_White_Poisoned_Apple.png"></a>
+
+(link: "What happens?")[
+You feel a jolt in your body as you feel yourself teleported from the forest. When you come to, you're in the bushes next to the most elaborate staircase that you've ever seen, as people wearing fancy clothes climb up the stairs. 
+
+You sigh. You're in the middle of <a href="https://en.wikipedia.org/wiki/Cinderella">//Cinderella//</a>.
+
+<a title="Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover_2013.jpg"><img width="960" alt="Neues Rathaus Hannover 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Neues_Rathaus_Hannover_2013.jpg/960px-Neues_Rathaus_Hannover_2013.jpg"></a>
+
+[[Turn the page ->The Grand Ball]]
+]
+
+
+:: When The Clock Strikes Midnight {"position":"575,925","size":"100,100"}
+You find yourself drifting further and further into sleep, but you jolt yourself awake when you see a blinding yellow light peek through the bushes. 
+
+That's odd, you note. It seems like you spent a little less time here than you did in <a href="https://en.wikipedia.org/wiki/Snow-White">//Snow White//</a>.
+
+When you wake up, you see Cinderella hurredly coming down the stairs. And as expected, she leaves behind her shoe. You guess that it only started glowing once it fell off, but that's just your theory that you unfortunately couldn't confirm. 
+
+Now's your chance to touch it, without anyone else from the story noticing. 
+
+You quickly dart out of the bushes... but then immediately become face-to-face with the prince, who has the most confused look on his face, clearly aware that you aren't the same girl he was dancing with 10
+
+Do you:
+[[quickly touch the shoe and avoid looking at the prince?]]
+[[say an awkward joke?]]
+[[try to run away?]]
+
+<a title="Auckland Museum, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Shoes,_pair_(AM_1996.115.4-5).jpg"><img width="960" alt="Shoes, pair (AM 1996.115.4-5)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Shoes%2C_pair_%28AM_1996.115.4-5%29.jpg/960px-Shoes%2C_pair_%28AM_1996.115.4-5%29.jpg"></a>
+
+
+:: Yes. {"position":"625,1775","size":"100,100"}
+"Yes, I did feel it," you lie. "Can I see it, to know that I'm not making it up?"
+
+"It's real," the prince says.
+
+"Can we lift up all of these mattresses?"
+
+The prince sighs. He clearly doesn't want to do it, but he obliges, probably because he's glad to finally met a "real" princess, whatever that means. 
+
+At the bottom of the mattresses and featherbeds, is the pea that's still glowing. 
+
+"Thanks," you tell the prince, as you touch the pea, becoming engulfed in the yellow light.
+
+[[Turn the page ->End]]
+
+<a title="Metropolitan Museum of Art, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Design_for_a_Canopy_Bed_MET_49.50.174.jpg"><img width="500" alt="Design for a Canopy Bed, drawing, anonymous, French, 18th century (MET, 49.50.174)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Design_for_a_Canopy_Bed_MET_49.50.174.jpg/500px-Design_for_a_Canopy_Bed_MET_49.50.174.jpg"></a>
+
+
+:: hal.tracks {"position":"900,100","size":"100,100"}
+fairytale: ./eglencelab-fairytale-cartoon-background-music-341216.mp3
+
+
+:: one fell on you. {"position":"575,250","size":"100,100"}
+You misplace a book on one of the shelves, and oops! One large book fell on your head, and you find yourself sounded by yellow light. When you came to, you ended up in this forest, which you quickly discerned was from <a href="https://en.wikipedia.org/wiki/Snow-White">//Snow White//</a> because of the dwarves' house.
+
+[[Turn the page->Snow White]]
+
+<a title="William Bowen, illustrated by Maud and Miska Petersham, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Enchanted_Forest_Bowen_Frontpiece_c.png"><img width="500" alt="The Enchanted Forest Bowen Frontpiece c.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Enchanted_Forest_Bowen_Frontpiece_c.png/330px-The_Enchanted_Forest_Bowen_Frontpiece_c.png?_=20120724060820"></a>
+
+
+:: quickly touch the shoe and avoid looking at the prince? {"position":"450,1125","size":"100,100"}
+Without looking at the prince, you quickly touch the shoe, and find yourself enveloped by the blinding yellow light. 
+
+When you come to again, you find yourself in yet another bush. Looking past it, you spot the iconic yellow brick road that's unmistakable.
+
+Yup. You're in the <a href="https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz">//The Wonderful Wizard of Oz//</a>.
+
+[[Turn the page ->The Wizard of Oz]]
+
+<a title="W. W. Denslow, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"><img width="500" alt="The Wonderful Wizard of Oz Book Cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Wonderful_Wizard_of_Oz_Book_Cover.jpg/500px-The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"></a>
+
+
+:: say an awkward joke? {"position":"700,1125","size":"100,100"}
+"I guess we're all looking for these tonight?" You crack a joke to the prince, who looks confused and like he'd honestly be anywhere else. 
+
+Embarrased, you pick up the shoe, convinced that it will take you to where you next need to go. 
+
+It does, and when you next come to, you find yourself in yet another bush. Looking past it, you spot the iconic yellow brick road that's unmistakable.
+
+Yup. You're in the <a href="https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz">//The Wonderful Wizard of Oz//</a>.
+
+[[Turn the page ->The Wizard of Oz]]
+
+<a title="W. W. Denslow, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"><img width="500" alt="The Wonderful Wizard of Oz Book Cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Wonderful_Wizard_of_Oz_Book_Cover.jpg/500px-The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"></a>
+
+
+:: startup {"position":"275,100","size":"100,100"}
+(set: $name to " ")
+
+(track: 'fairytale', 'loop', true)
+(track: 'fairytale', 'playwhenpossible')
+
+(goto: "Beginning")
+
+
+:: try to run away? {"position":"575,1125","size":"100,100"}
+Quickly, you try to run away, but you end up tripping on the shoe laying on the steps anyway and find yourself engulfed by the bright yellow light. 
+
+When you come to again, you find yourself in yet another bush. Looking past it, you spot the iconic yellow brick road that's unmistakable.
+
+Yup. You're in the <a href="https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz">//The Wonderful Wizard of Oz//</a>.
+
+[[Turn the page ->The Wizard of Oz]]
+
+<a title="W. W. Denslow, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"><img width="500" alt="The Wonderful Wizard of Oz Book Cover" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Wonderful_Wizard_of_Oz_Book_Cover.jpg/500px-The_Wonderful_Wizard_of_Oz_Book_Cover.jpg"></a>
+
+
+:: you picked up an interesting one to read. {"position":"700,250","size":"100,100"}
+You soon find yourself surrounded by the most blinding bright yellow light. After a moment, you find yourself in this forest, which you quickly discerned was from <a href="https://en.wikipedia.org/wiki/Snow-White">//Snow White//</a> because of the dwarves' house. 
+
+[[Turn the page->Snow White]]
+
+<a title="William Bowen, illustrated by Maud and Miska Petersham, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Enchanted_Forest_Bowen_Frontpiece_c.png"><img width="500" alt="The Enchanted Forest Bowen Frontpiece c.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Enchanted_Forest_Bowen_Frontpiece_c.png/330px-The_Enchanted_Forest_Bowen_Frontpiece_c.png?_=20120724060820"></a>
+
+
+:: you see a light emitting from one of the books on the shelf and pick it up. {"position":"450,250","size":"100,100"}
+You soon find yourself surrounded by that most blinding bright yellow light. After a moment, you find yourself in this forest, which you quickly discerned was from <a href="https://en.wikipedia.org/wiki/Snow-White">//Snow White//</a> because of the dwarves' house. 
+
+[[Turn the page->Snow White]]
+
+<a title="William Bowen, illustrated by Maud and Miska Petersham, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Enchanted_Forest_Bowen_Frontpiece_c.png"><img width="500" alt="The Enchanted Forest Bowen Frontpiece c.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Enchanted_Forest_Bowen_Frontpiece_c.png/330px-The_Enchanted_Forest_Bowen_Frontpiece_c.png?_=20120724060820"></a>
+
+
+:: StoryScript [script]
+/**
+ * Harlowe Audio Library (HAL), by Chapel, v2.3.0
+ * for Harlowe 2.1.0 and higher
+ * Released under the Unlicense, and dedicated to the public domain.
+**/
+;!function(e){(jQuery.browser=jQuery.browser||{}).mobile=/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(e)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(e.substr(0,4))}(navigator.userAgent||navigator.vendor||window.opera),function(){"use strict";window.Fast={filter:function(e,t){for(var o=e.length,n=[],a=0;a<o;a++)t(e[a],a,e)&&n.push(e[a]);return n},forEach:function(e,t){for(var o=e.length,n=0;n<o;n++)t(e[n],n,e)},map:function(e,t){for(var o=e.length,n=new Array(o),a=0;a<o;a++)n[a]=t(e[a],a,e);return n},find:function(e,t){for(var o=e.length,n=0;n<o;n++)if(t(e[n],n,e))return e[n]},findIndex:function(e,t){for(var o=e.length,n=0;n<o;n++)if(t(e[n],n,e))return n;return-1},some:function(e,t){for(var o=e.length,n=0;n<o;n++)if(t(e[n],n,e))return!0;return!1}}}(),window.Chapel=window.Chapel||{},window.Chapel.options={preload:!0,loadDelay:0,muteOnBlur:!0,startingVol:.5,persistPrefs:!0,globalA:!0,showControls:!0,sidebarStartClosed:!0,volumeDisplay:!1,trackLoadLimit:500,totalLoadLimit:8e3,debug:!1},window.Chapel.debug=function(){Chapel.options.debug&&console.log.apply(null,arguments)},function(){"use strict";var n=$("tw-storydata"),o=/(.+?):(.+)/,t=/[\r\n]+/,a=/^["']/,r=/["']$/;function e(e){return Fast.map(Fast.filter(e.split(t),function(e){return e&&e.trim()&&e.includes(":")}),function(e){return e.trim()})}function i(e){return e.trim().replace(a,"").replace(r,"").trim()}function s(e){var t=e.match(o);return t instanceof Array?{key:i(t[1]),value:i(t[2])}:e}var u,l,c,p=n.find('tw-passagedata[name="hal.tracks"]'),d=null,p=(p.length&&(p=e(p.text()),u=[],l=[],Fast.forEach(p,function(e){var e=s(e);"string"==typeof e&&l.push(e),u.push([e.key,(e=e.value,Fast.map(e.split(","),i))])}),l.length&&console.error("Some track definitions could not be parsed:\n"+l.join("\n")+"\nPlease check these definitions and try again."),d=new Map(u)),n.find('tw-passagedata[name="hal.config"]')),m=null;function f(e){var t=n.attr("format-version");if(e)return t;var e=t.split("."),t=e[0],o=e[1],e=e[2],t=Number(t),o=Number(o);return[t=(t=Number.isNaN(t)?3:t)<1?3:t,o=Number.isNaN(o)?3:o,e=Number.isNaN(e)?0:e]}function h(){var e=f();return!(3<=e[0]&&3<=e[1])}function g(t){return function(){var e=[].slice.call(arguments).slice(1),e=t.apply(null,e);return"string"==typeof e||"boolean"==typeof e||"number"==typeof e?e:""}}p.length&&(p=e(p.text()),c={},Fast.forEach(Fast.map(p,function(e){return s(e)}),function(e){c[e.key]=e.value}),m=c),m&&Fast.forEach(Object.keys(m),function(e){var t=e,o=c[e],e=typeof Chapel.options[e];"boolean"==e?"true"===o?Chapel.options[t]=!0:"false"===o&&(Chapel.options[t]=!1):"number"==e?(o=Number(o),Number.isNaN(o)||(Chapel.options[t]=o)):"string"==e&&o&&(Chapel.options[t]=o)});var y=require("macros");if(window.Chapel=window.Chapel||{},window.Chapel.Macros={add:function(o){o&&"object"==typeof o&&Fast.forEach(Object.keys(o),function(e){var t;t=o[e=e],h()?y.add(e,g(t),y.TypeSignature.zeroOrMore(y.TypeSignature.Any)):y.add(e,"Any",g(t),y.TypeSignature.zeroOrMore(y.TypeSignature.Any))})}},window.Chapel.Get=Object.freeze({version:f(),isHarlowe3OrLater:3<=f()[0],storyTitle:n.attr("name"),IFID:n.attr("ifid"),useOldMacroAPI:h(),fromPassage:d}),Chapel.debug("Harlowe Version -> ",Chapel.Get.version.join(".")),Chapel.debug("Harlowe Major Version -> ",Chapel.Get.version[0]),Chapel.debug("Story Title -> ",Chapel.Get.storyTitle),Chapel.debug("Story IFID -> ",Chapel.Get.IFID),Chapel.Get.version[0]<2)throw new Error("The Harlowe Audio Library is only designed to work with Harlowe 2 and 3; you appear to be using Harlowe 1 or an otherwise invalid story format.","get.js -> initialization",176);Chapel.options.storagekey="%%hal-"+Chapel.Get.IFID+"-{"+Chapel.Get.storyTitle+"}",Chapel.debug("Storage Key -> ",Chapel.options.storagekey)}(),function(){"use strict";var t=Chapel.options,e=function(e,t){if(window.localStorage)try{e=""+e,"string"!=typeof t&&(t=JSON.stringify(t)),window.localStorage.setItem(e,t)}catch(e){console.error(e)}},o=function(e){if(window.localStorage)try{return e=""+e,window.localStorage.getItem(e)}catch(e){console.error(e)}},n=function(e){if(window.localStorage)try{e=""+e,window.localStorage.removeItem(e)}catch(e){console.error(e)}},a={loaded:[],classes:{},master:{volume:t.startingVol,mute:!1},groups:{playing:[],looping:[],custom:{}},mute:function(e){a.master.mute=!!e,$(document).trigger({type:":master-mute",mute:!!e})},isMuted:function(){return!!a.master.mute},volume:function(e){e=Number(e),Number.isNaN(e)||(1<e?e=1:e<0&&(e=0),a.master.volume=e),$(document).trigger({type:":master-volume",volume:e})},getVolume:function(){return a.master.volume},stopAll:function(){a.classes.Track&&Fast.forEach(a.classes.Track.list,function(e){e.stop()})},audioPlaying:function(){return!!a.groups.playing.length},savePrefs:function(){e(t.storagekey,a.master)},loadPrefs:function(){var e=o(t.storagekey);e&&"object"==typeof e&&e.hasOwnProperty("volume")&&"number"==typeof e.volume&&e.hasOwnProperty("mute")&&"boolean"==typeof e.volume&&(delete a.master,a.master=e)},clearPrefs:function(){n(t.storagekey)}},r={track:[":available",":loaded",":play",":stop",":mute",":volume"],master:[":master-mute",":master-volume"]};var i=r.track.concat(r.master);function s(e,t){if(!e||"string"!=typeof e||!e.trim())return null;e=Fast.filter(Fast.map(e.split(" "),function(e){return(e=":"!==(e=e.split(".")[0])[0]?":"+e:e)+".userland"}),function(e){return(t?i:r.track).includes(e)}).join(" ");return e&&e.trim()?e:null}a.data={parseEvent:s,bail:function(e){throw new Error(e,"audio.js -> bail()",140)}},a.on=function(e,t){t&&"function"==typeof t?(e=s(e,!0))&&$(document).on(e,t):console.error("Chapel.Audio.on() -> invalid callback")},a.one=function(e,t){t&&"function"==typeof t?(e=s(e,!0))&&$(document).one(e,t):console.error("Chapel.Audio.one() -> invalid callback")},a.off=function(e){(e=s(e,!0))&&$(document).off(e)},t.persistPrefs&&($(document).on(":master-mute",a.savePrefs),$(document).on(":master-volume",a.savePrefs)),$(document).on(":play",function(e){e.track.addToGroup("playing")}),$(document).on(":stop",function(e){e.track.removeFromGroup("playing")}),t.muteOnBlur&&$(window).on("blur",function(){a.isMuted()||(a.mute(!0),$(window).one("focus",function(){a.mute(!1)}))}),a.parseEvent=s,window.Chapel=window.Chapel||{},window.Chapel.Audio=a}(),function(){"use strict";var a=Chapel.Audio,o=a.data.pareEvent,r=a.data.bail,i=Chapel.options,t=$(document.createElement("div")).attr("id","audio-container").css("display","none").appendTo(document.body),s={aac:"audio/aac",caf:"audio/x-caf","x-caf":"audio/x-caf",mp3:'audio/mpeg; codecs="mp3"',mpeg:'audio/mpeg; codecs="mp3"',m4a:"audio/mp4",mp4:"audio/mp4","x-m4a":"audio/mp4","x-mp4":"audio/mp4",oga:"audio/ogg",ogg:"audio/ogg",opus:'audio/ogg; codecs="opus"',wav:"audio/wav",wave:"audio/wav",weba:"audio/webm",webm:"audio/webm"};function u(e,t,o){this instanceof u||r("Track: called without `new` operator"),e||r("Track: no id specified"),"string"!=typeof e&&r("Track: track id is not a string"),t&&(!Array.isArray(t)||t.length)||r("Track: no sources specified"),o?t=[].slice.call(arguments).slice(1):"string"==typeof t&&(t=[t]);var n=$(document.createElement("audio"));Fast.forEach(t,function(e){$(document.createElement("source")).attr({src:e,type:(e=(e=(e=(e=(e=e).split("."))[e.length-1]).includes("?")?e.split("?")[0]:e).toLowerCase().trim(),Object.keys(s).includes(e)||r('Track: unsupported file type "'+e+'"'),s[e])}).appendTo(n)}),n.attr({"data-track":"id","data-volume":1,"data-mute":!1}).one("canplaythrough.hal",function(){a.loaded.push(e)}),i.preload&&n.attr("preload","auto"),n[0].volume=+a.master.volume,this.id=e,this.$el=n,this.unwrap=n[0],this.sources=t}Object.assign(u,{list:[],is:function(e){return e instanceof u},has:function(t){return Fast.some(u.list,function(e){return e.id===t})},emit:function(e,t){$(document).trigger({type:e,track:t}),t.emit(e)},add:function(e,t,o){var n=new u(e,t=o?[].slice.call(arguments).slice(1):t);return u.list.push(n),n.$el.on("canplay",function(){u.emit(":available",n)}),n.$el.on("canplaythrough",function(){u.emit(":loaded",n)}),n.attach(),n},renew:function(){Fast.forEach(u.list,function(e){e.mute(e.isMuted()),e.volume(e.getVolume())})},getIdx:function(t){return Fast.findIndex(u.list,function(e){return e.id===t})},get:function(t){var e=Fast.find(u.list,function(e){return e.id===t});if(e)return e;throw new ReferenceError('There is no track with the id "'+t+'". Please check your spelling and capitalization.',"track.js -> Track.get()",155)},removeFromDOM:function(e){(e="string"==typeof e?u.get(e):e)&&u.is(e)?e.unattach():t.remove()},_runOnMultiple:function(e,t,o){e instanceof Array&&u.prototype.hasOwnProperty(t)&&Fast.forEach(e,function(e){(e=u.is(e)?e:u.get(e)||null)&&e[t].apply(e,o&&o instanceof Array?o:[])})}}),Object.assign(u.prototype,{constructor:u,emit:function(e){this.$el.trigger({type:e,track:this})},clone:function(){return new u(this.id,this.sources)},isAttached:function(){return $.contains(t[0],this.unwrap)},attach:function(){return this.isAttached()||this.$el.appendTo(t),this},unattach:function(){return this.isAttached()&&this.$el.remove(),this},isPlaying:function(){return!this.unwrap.paused},play:function(){var e=this;return this.unwrap.play(),u.emit(":play",this),this.$el.on("ended",function(){e.unwrap.loop||(e.unwrap.currentTime=0,u.emit(":stop",e))}),this},playWhenPossible:function(){var t=this;return this.unwrap.play().then(function(){u.emit(":play",t),t.$el.on("ended",function(){t.unwrap.loop||(t.unwrap.currentTime=0,u.emit(":stop",t))})},function(e){$(document).one("click mousedown keydown touchstart",function(){t.play()})}).catch(function(e){console.error(e)}),this},forcePlay:function(){var e=this,t=$(document.createElement("a")).css("display","none").appendTo(document.body).on("click",function(){e.play()});setTimeout(function(){t.trigger("click")},safeAudioStart)},pause:function(){return this.unwrap.pause(),u.emit(":pause",this),this},stop:function(){return this.unwrap.pause(),this.unwrap.currentTime=0,u.emit(":stop",this),this},mute:function(e){return this.$el.attr("data-mute",e=!!e),a.master.mute?this.unwrap.muted=!0:this.unwrap.muted=e,u.emit(":mute",this),this},isMuted:function(){var e=this.$el.attr("data-mute");return"boolean"==typeof e?e:"false"!==e},toggleMute:function(){return this.mute(!this.isMuted()),this},volume:function(e){return e=Number(e),Number.isNaN(e)||(1<e?e=1:e<0&&(e=0),this.$el.attr("data-volume",e),this.unwrap.volume=e*a.master.volume),u.emit(":volume",this),this},getVolume:function(){return Number(this.$el.attr("data-volume"))},addToGroup:function(e,t){var o=this,t=(t?a.groups.custom:a.groups)[e];return Fast.some(t,function(e){return o.id===e.id})||t.push(this),this},removeFromGroup:function(e,t){var o=this,t=(t?a.groups.custom:a.groups)[e],e=Fast.findIndex(t,function(e){return e.id&&e.id===o.id});return t.splice(e,1),this},loop:function(e){return this.unwrap.loop=!!e,this.unwrap.loop?this.addToGroup("looping"):this.removeFromGroup("looping"),this},isLooping:function(){return!!this.unwrap.loop},toggleLoop:function(){return this.loop(!this.isLooping()),this},seek:function(e){return e<0?e=this.unwrap.duration-e:e>this.unwrap.duration&&(e=this.unwrap.duration),this.unwrap.currentTime=e,this},fadeIn:function(e){var t=this,o=(e=e||1,this.getVolume());return this.volume(0),this.play(),this.$el.animate({volume:o*a.master.volume},1e3*e,function(){t.volume(o),u.emit(":volume",t),u.emit(":fade",t)}),this},fadeOut:function(e){e=e||1;var t=this,o=this.getVolume();return this.$el.animate({volume:0},1e3*e,function(){t.stop(),t.volume(o),u.emit(":volume",t),u.emit(":fade",t)}),this},fadeTo:function(e,t){var o=this;if(e=e||1,t=Number(t),!Number.isNaN(t))return 1<t?t=1:t<0&&(t=0),this.$el.animate({volume:t*a.master.volume},1e3*e,function(){o.volume(t),u.emit(":volume",o),u.emit(":fade",o)}),this;alert("ivalid volume level")},delay:function(e,t){var o=this;"function"==typeof t&&(e=Number(e),(Number.isNaN(e)||e<0)&&(e=0),setTimeout(function(){t.call(o,o,e)},e))},on:function(e,t){if(!t||"function"!=typeof t)return console.error("<track>.on() -> invalid callback"),this;(e=o(e))&&this.$el.on(e,t)},one:function(e,t){if(!t||"function"!=typeof t)return console.error("<track>.one() -> invalid callback"),this;(e=o(e))&&this.$el.one(e,t)},off:function(e){(e=o(e))&&this.$el.off(e)}}),a.classes.Track=u,a.newTrack=function(){try{return u.add.apply(null,arguments)}catch(e){console.error(e.message),alert("Error in A.newTrack() -> see the console for more information.")}},a.track=function(e){try{return u.get(e)}catch(e){console.error(e.message),alert("Error in A.track() -> see the console for more information.")}},$(document).on(":master-mute",u.renew),$(document).on(":master-volume",u.renew)}(),function(){"use strict";var n=Chapel.Audio,a=n.classes.Track,o=(n.data._extend,/(play)?list:(.+)/i);n.createGroup=function(e,t,o){o=o?[].slice.call(arguments).slice(1):t;t=e,(e=o)&&Array.isArray(e)||(e=[]),n.groups.custom[t]=Fast.map(e,function(e){return a.get(e)})},n.group=function(e){if(!(this instanceof n.group))return new n.group(e);if(Object.keys(n.groups.custom).includes(e))this.members=n.groups.custom[e];else{if(!(n.groups[e]&&n.groups[e]instanceof Array))throw new ReferenceError('There is no group with the id "'+id+'". Please check your spelling and capitalization.',"group.js -> A.group()",29);this.members=n.groups[e]}var t;o.test(e)&&(t=e.match(o)[2])&&t.trim()&&(this.members=n.playlist(t).tracks),Array.isArray(this.members)||(this.members=[],console.error('Could not find members for track group "'+e+'"!'))},Object.assign(n.group,{is:function(e){return this instanceof n.group},_runOnAll:function(e,t,o,n){null!=n?o=[].slice.call(arguments).slice(2):o instanceof Array||(o=[o]);n=[e.members,t,o];a._runOnMultiple.apply(null,n)}}),Object.assign(n.group.prototype,{constructor:n.group,_run:function(){n.group._runOnAll.apply(null,[this].concat([].slice.call(arguments)))},play:function(){return this._run("play"),this},pause:function(){return this._run("pause"),this},stop:function(){return this._run("stop"),this},mute:function(e){return this._run("mute",e),this},volume:function(e){return this._run("volume",e),this},loop:function(e){return this._run("loop",e),this}})}(),function(){"use strict";var e=Chapel.Audio,a=e.classes.Track;e.data._extend;function n(e,t){if(!(this instanceof n))return new n(e,t);this.id=e,this.tracks=t.map(function(e){return a.get(e)}),this.looping=!1,this.current="",this.playing=!1}Object.assign(n,{list:{},is:function(e){return e instanceof n},add:function(e,t,o){return o&&(t=[].slice.call(arguments).slice(1)),n.list[e]=new n(e,t),n.list[e]},_runOnAll:function(e,t,o,n){null!=n?o=[].slice.call(arguments).slice(2):o instanceof Array||(o=[o]);n=[e.tracks,t,o];a._runOnMultiple.apply(null,n)}}),Object.assign(n.prototype,{constructor:n,clone:function(){return new n(this.id,this.tracks.map(function(e){return e.id}))},_run:function(){n._runOnAll.apply(null,[this].concat([].slice.call(arguments)))},volume:function(e){return this._run("volume",e),this},mute:function(e){return this._run("mute",e),this},shuffle:function(){for(var e,t,o=this.tracks,n=o.length-1;0<n;n--)e=Math.floor(Math.random()*(n+1)),t=o[n],o[n]=o[e],o[e]=t;return this.tracks=o,this},random:function(){return this.tracks[Math.floor(Math.random()*this.tracks.length)]},isPlaying:function(){return this.playing},nowPlaying:function(){return a.get(this.current)},play:function(e){var t=this;if((e=e||(t.current?Fast.findIndex(t.tracks,function(e){return e.id===t.current}):0))>=t.tracks.length&&t.looping)e=0;else if(e>=t.tracks.length)return t.current="",void(t.playing=!1);var o=t.tracks[e],n=o.isLooping();return o.loop(!1),o.play(),t.playing=!0,setTimeout(function(){o.isPlaying()||(t.playing=!1)},20),t.current=o.id,o.$el.one("ended.playlist",function(){e++,o.loop(n),t.play(e)}),t},loop:function(e){return this.looping=!!e,this},isLooping:function(){return this.looping},stop:function(){var e;return this.current&&this.isPlaying()?(e=this.nowPlaying())&&(e.stop(),e.$el.off(".playlist")):this._run("stop"),this.current="",this.playing=!1,this},pause:function(){var e;return this.current&&this.isPlaying()&&((e=this.nowPlaying())&&e.pause()),this.playing=!1,this}}),e.classes.Playlist=n,e.createPlaylist=function(){try{n.add.apply(null,arguments)}catch(e){console.error(e.message),alert("Error in A.createPlaylist() -> see the console for more information.")}},e.playlist=function(e){try{var t=n.list[e]||null;if(t)return t;throw new ReferenceError('There is no playlist with the id "'+e+'". Please check your spelling and capitalization.',"list.js -> A.playlist()",171)}catch(e){console.error(e.message),alert("Error in A.createPlaylist() -> see the console for more information.")}}}(),function(){"use strict";var t=Chapel.Audio,o=t.classes.Track,n=t.classes.Playlist;function a(t,o){if("object"!=typeof o)throw new TypeError("Invalid extension.","extensions.js -> _extend()",8);Fast.forEach(Object.keys(o),function(e){if(void 0!==t[e])throw new Error('Invalid extension: cannot clobber existing property "'+e+'".',"extensions.js -> _extend()",8);t[e]=o[e]})}t.extend=function(e){a(Audio,e)},o.extend=function(e){a(o,e)},o.extendPrototype=function(e){a(o.prototype,e)},t.extendTrack=o.extend,t.extendTrackProto=o.extendPrototype,t.group.extend=function(e){a(t.group,e)},t.group.extendPrototype=function(e){a(t.group.prototype,e)},t.extendGroup=t.group.extend,t.extendGroupProto=t.group.extendPrototype,n.extend=function(e){a(n,e)},n.extendPrototype=function(e){a(n.prototype,e)},t.extendPlaylist=n.extend,t.extendPlaylistProto=n.extendPrototype}(),function(){"use strict";var e,t,o,n,a,r,i,s=Chapel.options;s.showControls&&(e=$(document.createElement("div")).attr("id","story-menu").css("display","none"),t=$(document.createElement("span")).attr("id","vol-title").append("Volume"),s.volumeDisplay||t.css("display","none"),o=$(document.createElement("input")).attr({id:"audio-volume",type:"range",min:1,max:99,step:1,title:"Volume"}).addClass("hal"),(a=Math.trunc(100*window.Chapel.Audio.master.volume))<0?a=0:100<a&&(a=100),o.attr("value",a),n=function(e){void 0===e&&(e=o.val()),t.empty().append("Volume "+e)},o.on("input",function(){window.Chapel.Audio.volume($(this).val()/100),n($(this).val())}),a=$(document.createElement("tw-link")).attr({id:"audio-mute",title:"Mute"}).append("Mute <span></span>").on("click",function(e){e.preventDefault(),$(this).toggleClass("muted"),Chapel.Audio.mute(!Chapel.Audio.isMuted())}),Chapel.Audio.isMuted()&&a.addClass("muted"),r=$(document.createElement("tw-link")).attr("id","audio-panel-toggle").on("click",function(e){e.preventDefault(),i.toggleClass("closed")}),i=$(document.createElement("div")).attr("id","audio-controls").append(e,t,o,a,r).appendTo(document.body),s.sidebarStartClosed&&i.addClass("closed"),window.Chapel=window.Chapel||{},window.Chapel.Audio=window.Chapel.Audio||{},window.Chapel.Audio.controls={$panel:i,$volume:o,$mute:a,$user:e,close:function(){i.addClass("closed")},open:function(){i.removeClass("closed")},toggle:function(){i.toggleClass("closed")},hide:function(){i.css("display","none")},show:function(){i.css("display","block")},updateVolume:n})}(),function(){"use strict";var s=Chapel.options,t=State,e=$(document.createElement("div")).attr("id","audio-overlay").css("display","none").appendTo(document.body);function o(){e.css("display","block").append('<div class="lds-ring"><div></div><div></div><div></div><div></div></div>')}function u(){e.fadeOut(function(){e.empty()})}window.Chapel=window.Chapel||{},window.Chapel.Audio=window.Chapel.Audio||{},window.Chapel.Audio.loadScreen={show:o,dismiss:u,kill:function(){$("#audio-overlay").remove()}},window.Chapel.Audio.$overlay=e,window.Chapel.Audio.preload=function(){var a,e,r,i;Chapel.debug("This is a mobile browser -> ",$.browser.mobile),t.pastLength||t.futureLength||$.browser.mobile||($(document).ready(function(){o()}),a=100+s.loadDelay,e=Chapel.Audio.classes.Track.list,r=Chapel.Audio.loaded,e.length?(i=Fast.map(e,function(e){return e.id}),0<s.totalLoadLimit&&setTimeout(function(){u()},s.totalLoadLimit),function e(){var t,o,n;i.length?(t=i.shift(),r.includes(t)?e():(o=Chapel.Audio.classes.Track.get(t)).unwrap.readyState<2?(n=!1,o.$el.one("canplaythrough.hal",function(){e(),n=!0}),setTimeout(function(){n||(o.$el.off("canplaythrough.hal"),e())},s.trackLoadLimit)):(r.includes(t)||r.push(t),e())):setTimeout(u,a)}()):setTimeout(u,a))}}(),function(){"use strict";var e,t,o=Chapel.options.storagekey+"_hal_restart_",n=(Chapel.debug("HAL Session Key -> ",o),window.sessionStorage?(Chapel.debug("Session Storage Available"),e=function(e,t){window.sessionStorage.setItem(o+e,t)},t=function(e){return window.sessionStorage.getItem(o+e)}):(Chapel.debug("Session Storage Unavailable"),e=function(){},t=function(){},console.warn("Session storage is unavailable...")),{save:e,load:t});window.Chapel.Audio.state={_store:n,saveTracks:function(){var e;try{e=Fast.map(Chapel.Audio.classes.Track.list,function(e){return{id:e.id,sources:e.sources}}),Chapel.debug("Session Saved (Tracks) -> ",e),e=JSON.stringify(e),n.save("tracks",e)}catch(e){console.error(e.message)}},loadTracks:function(){var e;try{e=(e=n.load("tracks"))&&JSON.parse(e),Array.isArray(e)&&e.length&&(Chapel.debug("Session Loaded (Tracks) -> ",e),Fast.forEach(e,function(e){e.id&&e.sources&&!Chapel.Audio.classes.Track.has(e.id)?Chapel.Audio.newTrack.apply(null,[e.id].concat(e.sources)):Chapel.debug("Track reloading skipped.")}))}catch(e){console.error(e.message)}},savePlaylists:function(){try{var o=Chapel.Audio.classes.Playlist.list,e=Fast.map(Object.keys(o),function(e){var t={};return t.tracks=Fast.map(o[e].tracks,function(e){return e.id}),t.id=o[e].id,t});Chapel.debug("Session Saved (Playlists) -> ",e),e=JSON.stringify(e),n.save("playlists",e)}catch(e){console.error(e.message)}},loadPlaylists:function(){var e;try{(e=(e=n.load("playlists"))&&JSON.parse(e))&&Array.isArray(e)&&e.length&&(Chapel.debug("Session Loaded (Playlists) -> ",e),Fast.forEach(e,function(e){e.id&&e.tracks&&Chapel.Audio.createPlaylist(e.id,e.tracks)}))}catch(e){console.error(e.message)}},saveGroups:function(){var t;try{t={},Fast.forEach(Object.keys(Chapel.Audio.groups.custom),function(e){t[e]=Fast.map(Chapel.Audio.groups.custom[e],function(e){return"string"==typeof e?e:e.id})}),Chapel.debug("Session Saved (Groups) -> ",t),t=JSON.stringify(t),n.save("groups",t)}catch(e){console.error(e.message)}},loadGroups:function(){var t;try{(t=(t=n.load("groups"))&&JSON.parse(t))&&"object"==typeof t&&(Chapel.debug("Session Loaded (Groups) -> ",t),Fast.forEach(Object.keys(t),function(e){Fast.map(t[e],function(e){return Chapel.Audio.classes.Track.get(e)})}),Chapel.Audio.groups.custom=t)}catch(e){console.error(e.message)}}}}(),function(){"use strict";var e=Chapel.options;e.globalA&&void 0===window.A&&(Chapel.debug("Created global A interface."),window.A=window.Chapel.Audio),Chapel.Get.fromPassage&&(Chapel.debug("Loading tracks from track def special passage -> ",Chapel.Get.fromPassage),Chapel.Get.fromPassage.forEach(function(e,t){Chapel.Audio.newTrack.apply(null,[t].concat(e))})),$(document).on("unload",function(){Chapel.debug("User Prefs Saved"),window.Chapel.Audio.savePrefs()}),Chapel.Audio.classes.Track.renew(),Chapel.Audio.controls&&Chapel.Audio.controls.updateVolume(),Chapel.Get.isHarlowe3OrLater&&($(window).on("unload",function(){Chapel.debug("HAL State Saved"),Chapel.Audio.state.saveTracks(),Chapel.Audio.state.savePlaylists(),Chapel.Audio.state.saveGroups()}),Chapel.debug("HAL State Loaded"),Chapel.Audio.state.loadTracks(),Chapel.Audio.state.loadPlaylists(),Chapel.Audio.state.loadGroups()),e.persistPrefs&&(Chapel.debug("User Prefs Loaded"),Chapel.Audio.loadPrefs())}(),function(){"use strict";var i,s,e,u,t;Chapel.options.showControls&&(i=Engine,s=Chapel.Audio.controls.$user,e=function(){return"none"!==s.css("display")},u=function(){return e()||s.css("display","block"),s},t=function(){return e()&&s.css("display","none"),s},Chapel.Audio.menu={hide:t,show:u,isShown:e,links:{add:function(e,t,o){var n,a;if(!e||"string"!=typeof e)return r="undefined",alert(r),void console.error(r);o||"function"!=typeof t?(t&&"string"==typeof t&&(n=t),o&&"function"==typeof o&&(a=o)):(a=t,n=null);var r=$(document.createElement("tw-link")).append(e).attr({tabindex:"0",name:e.toLowerCase().trim()}).on("click",function(){n&&i.goToPassage(n),a&&a()}).addClass("story-menu").appendTo(s);return u(),r},clear:function(){return s.empty(),t()},hide:function(e){e=e.toLowerCase().trim(),$('tw-link.story-menu[name="'+e+'"]').addClass("hide")},show:function(e){e=e.toLowerCase().trim(),$('tw-link.story-menu[name="'+e+'"]').removeClass("hide")},toggle:function(e){e=e.toLowerCase().trim(),$('tw-link.story-menu[name="'+e+'"]').toggleClass("hide")},remove:function(e){e=e.toLowerCase().trim(),$('tw-link.story-menu[name="'+e+'"]').remove()}}})}(),function(){"use strict";var n=Chapel.Audio;function o(e){return e&&"function"==typeof e}function a(e,t){if(!e||"string"!=typeof e)return null;switch(e=e.toLowerCase().trim()){case"isplaying":e="isPlaying";break;case"playwhenpossible":e="playWhenPossible";break;case"ismuted":e="isAMuted";break;case"togglemute":e="toggleMute";break;case"getvolume":e="getVolume";break;case"islooping":e="isLooping";break;case"toggleloop":e="toggleLoop";break;case"fadein":e="fadeIn";break;case"fadeout":e="fadeOut";break;case"fadeto":e="fadeTo";break;case"stopall":e="stopAll"}if("isPlaying"===e&&"master"===t&&(e="audioPlaying"),"group"===t){if(o(n.group.prototype[e]))return e}else if("master"===t){if(o(n[e]))return e}else if(o(n.classes[t].prototype[e]))return e;throw new ReferenceError('Cannot run the command: "'+e+'" on the API "'+t+'". The command may be invalid, or this may be a bug in HAL.',"macros.js -> getCommand()",10)}window.Chapel.Macros.add({newtrack:function(){var e=[].slice.call(arguments);try{return n.newTrack.apply(null,e)}catch(e){alert("Error in the (newtrack:) macro: "+e.message)}},newplaylist:function(e,t){t=[].slice.call(arguments).slice(1);try{return n.createPlaylist(e,t)}catch(e){alert("Error in the (newplaylist:) macro: "+e.message)}},newgroup:function(e,t){t=[].slice.call(arguments).slice(1);try{return n.createGroup(e,t)}catch(e){alert("Error in the (newgroup:) macro: "+e.message)}},masteraudio:function(e){try{return e=a(e,"master"),n[e].apply(null,[].slice.call(arguments).slice(1))}catch(e){alert("Error in the (masteraudio:) macro: "+e.message)}},track:function(e,t){try{var o=n.track(e);return o[t=a(t,"Track")].apply(o,[].slice.call(arguments).slice(2))}catch(e){alert("Error in the (track:) macro: "+e.message)}},playlist:function(e,t){try{var o=n.playlist(e);return o[t=a(t,"Playlist")].apply(o,[].slice.call(arguments).slice(2))}catch(e){alert("Error in the (playlist:) macro: "+e.message)}},group:function(e,t){try{var o=n.group(e);return o[t=a(t,"group")].apply(o,[].slice.call(arguments).slice(2))}catch(e){alert("Error in the (group:) macro: "+e.message)}}})}();
+/** End of HAL code */
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Modern+Antiqua&display=swap');
+
+
+tw-story {
+    background-color: Wheat;
+    color: black;
+  	font-family: "Modern Antiqua";
+}
+
+/**
+ * Harlowe Audio Library (HAL), by Chapel, v2.3.0
+ * for Harlowe 2.1.0 and higher
+ * Released under the Unlicense, and dedicated to the public domain.
+**/
+#audio-overlay{position:fixed;top:0;right:0;left:0;bottom:0;z-index:100000;background:#111}.lds-ring{display:block;position:relative;top:20%;margin:auto;width:20em;height:20em}.lds-ring div{box-sizing:border-box;display:block;position:absolute;width:18em;height:18em;margin:6px;border:6px solid #fff;border-radius:50%;-webkit-animation:lds-ring 1.2s cubic-bezier(.5,0,.5,1) infinite;animation:lds-ring 1.2s cubic-bezier(.5,0,.5,1) infinite;border-color:#fff transparent transparent transparent}.lds-ring div:nth-child(1){-webkit-animation-delay:-.45s;animation-delay:-.45s}.lds-ring div:nth-child(2){-webkit-animation-delay:-.3s;animation-delay:-.3s}.lds-ring div:nth-child(3){-webkit-animation-delay:-.15s;animation-delay:-.15s}@-webkit-keyframes lds-ring{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes lds-ring{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}input#audio-volume{width:100%;margin:2em 0}span#vol-title{position:relative;bottom:-1em;font-size:1rem;float:left}tw-link#audio-mute{display:inline-block;padding:.3em;width:90%;text-decoration:none;color:#111;background:#eee;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:1px solid #000}tw-link#audio-mute:hover{opacity:.8}tw-link#audio-mute:active{opacity:.6}tw-link#audio-mute span{display:inline-block;width:1em;position:relative;height:1em;top:.2em;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAABF0lEQVR4Ae2VJVREYRSEB3ftuFUaLhF6I22iF7TgLr1XvAc849CwiBac9Xtm3e97cefp/Pec7+mdH0mZrGtMoBomyAEHfjGHXKg07gNxeUS3BuMAqGZswE7YcOIYgqgG7BFlSQgTAgKysC2jNjQmghFQCOpMxq+QmQgmFATU4kcq/YlgfKB1lALUqFSukRIbEwpy4BTZPM/Bu9TaQ362KAsl56sAtSR+Sgv6RCFdr/gjBYiuj65c3J0eNEmXz95TgybocvmoJj3avf5l59L1iD/WglZCP7/uh8zgeQ6epdahaZENFIPCCFvEYNPW4JdNazBGzhkj6caCbSc02DRRu0+8RR/+rb7wx6D505HxCVKvG0zpp+yknHe8MBDkT/s8AAAAAElFTkSuQmCC);background-size:contain}tw-link#audio-mute.muted span{right:4px;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAASElEQVR4Ae3WsQ0AMAjAsJ7ez9MTGEmlRGL3BJzPq6prw2DDYMNgw2DDYMOwh1kAMUygQIEC2RejANVxnVE9aDOqJ39GVZWqB5Z3r1ndBX5oAAAAAElFTkSuQmCC)}div#audio-volume{float:left}div#audio-controls{font:100% Georgia,serif;font-size:1.5em;position:fixed;width:8em;height:100%;padding:1em 2em;z-index:10000;top:0;left:0;bottom:0;background:#333;color:#eee;transition:left .3s;text-align:center}div#audio-controls.closed{left:-10.5em}div#audio-controls tw-link#audio-panel-toggle{display:inline-block;width:1.5em;position:absolute;height:1.5em;top:0;right:0;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;text-decoration:none;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAAAYklEQVR4Ae3MsQFAMAAEQMDEagCgN4EuVTrbPcACeUBugDNeSdMQomI0PmYdTEYD9DA5jcVoBKuxGY1kNQ6jGRSaGaIj8gw1aI/KYVUSNqsSzMpiVT2zMjlVN0fqVW5o2luMGHqkQmD9cPYAAAAASUVORK5CYII=);background-size:contain}div#audio-controls.closed tw-link#audio-panel-toggle{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAAAZElEQVR4Ae3TpwGAMBQAUfrEeHB0cDhcXBSO7ehlgBw9N8BL/YZO95r6uA/UEbOv+ylfHRJ9z1BWLynKJqmWohyS6ijKOygKCpmjZYqXTTA2xUiCsShGAMw8/Q3ArFgFMHek0w3WCaR74eO2YQAAAABJRU5ErkJggg==)}@media screen and (max-width:800px){div#audio-controls.closed{left:-12em}div#audio-controls.closed tw-link#audio-panel-toggle{right:-1.5em}}div#story-menu{margin:1em 0}tw-link.story-menu{width:100%;display:block;font-weight:400;background:#ccc;font-size:.9em;padding:.1em 0;color:#111;border:1px solid #333}tw-link.story-menu.hide{display:none}tw-link.story-menu:hover{opacity:.8}tw-link.story-menu:active{opacity:.6}input[type=range].hal{-webkit-appearance:none;width:100%;margin:2.25px 0}input[type=range].hal:focus{outline:0}input[type=range].hal::-webkit-slider-runnable-track{width:100%;height:15.5px;cursor:pointer;box-shadow:.4px .4px 1px #000,0 0 .4px #0d0d0d;background:#111;border-radius:0;border:0 solid #010101}input[type=range].hal::-webkit-slider-thumb{box-shadow:0 0 2.2px rgba(17,17,17,.1),0 0 0 rgba(30,30,30,.1);border:0 solid #fff;height:20px;width:11px;border-radius:0;background:rgba(255,255,255,.93);cursor:pointer;-webkit-appearance:none;margin-top:-2.25px}input[type=range].hal:focus::-webkit-slider-runnable-track{background:#444}input[type=range].hal::-moz-range-track{width:100%;height:15.5px;cursor:pointer;box-shadow:.4px .4px 1px #000,0 0 .4px #0d0d0d;background:#111;border-radius:0;border:0 solid #010101}input[type=range].hal::-moz-range-thumb{box-shadow:0 0 2.2px rgba(17,17,17,.1),0 0 0 rgba(30,30,30,.1);border:0 solid #fff;height:20px;width:11px;border-radius:0;background:rgba(255,255,255,.93);cursor:pointer}input[type=range].hal::-ms-track{width:100%;height:15.5px;cursor:pointer;background:0 0;border-color:transparent;color:transparent}input[type=range].hal::-ms-fill-lower{background:#000;border:0 solid #010101;border-radius:0;box-shadow:.4px .4px 1px #000,0 0 .4px #0d0d0d}input[type=range].hal::-ms-fill-upper{background:#111;border:0 solid #010101;border-radius:0;box-shadow:.4px .4px 1px #000,0 0 .4px #0d0d0d}input[type=range].hal::-ms-thumb{box-shadow:0 0 2.2px rgba(17,17,17,.1),0 0 0 rgba(30,30,30,.1);border:0 solid #fff;height:20px;width:11px;border-radius:0;background:rgba(255,255,255,.93);cursor:pointer;height:15.5px}input[type=range].hal:focus::-ms-fill-lower{background:#111}input[type=range].hal:focus::-ms-fill-upper{background:#444}
+/** End of HAL code */
